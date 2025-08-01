@@ -1,35 +1,36 @@
-<h1 align="center">
-  <a href="https://reactnative.dev/">
-    mkrcpp
-  </a>
-</h1>
+<h1 align="center">Michael Mao</h1>
+<p align="center">Full Stack Developer & AI Enthusiast</p>
 
+---
+
+<p align="center">Passionate about building scalable applications and exploring AI technologies. Experienced in mobile, web, backend, and DevOps.</p>
+
+---
+
+<h3 align="center">Skills & Projects</h3>
+<p align="center">📱 <strong>Mobile</strong>: <a href="https://github.com/krmao/template/tree/androidx/mobile/android">Android</a>, <a href="https://github.com/krmao/template/tree/androidx/mobile/IOS">iOS</a>, HarmonyOS, <a href="https://github.com/krmao/template/tree/androidx/mobile/hybird_vue">H5</a>, <a href="https://github.com/krmao/template/tree/androidx/mobile/react_native">React Native</a>, <a href="https://github.com/krmao/template/tree/androidx/mobile/flutter_module">Flutter</a></p>
+<p align="center">🌐 <strong>Web</strong>: Vue3, React, Nuxt.js, Next.js</p>
+<p align="center">🖥️ <strong>Backend</strong>: Java, <a href="https://github.com/krmao/template/tree/androidx/service/service-template">Spring Boot</a>, Spring Cloud, Python, FastAPI</p>
+<p align="center">🤖 <strong>AI</strong>: SGLang, VLLM, Ollama, LangChain, Chroma, Milvus, Whisper, Aliyun ASR, Aliyun TTS</p>
+<p align="center">🚀 <strong>DevOps</strong>: Docker, Kubernetes</p>
+
+---
+
+<h3 align="center">Contact</h3>
 <p align="center">
-  <strong>To learn full stack development techniques,</strong><br>
-  and be aimed at building a powerful enterprise framework.
+📧 Email: <a href="mailto:kr.mao@qq.com">kr.mao@qq.com</a><br>
+📧 Email: <a href="mailto:mkrcpp@gmail.com">mkrcpp@gmail.com</a><br>
+🌍 Website: <a href="https://codesdancing.com">codesdancing.com</a><br>
+📍 Location: Shanghai, China
 </p>
 
+---
+
+<h3 align="center">Profiles</h3>
 <p align="center">
-  <a href="https://github.com/krmao/template">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Template is released under the MIT license." />
-  </a>
-  <a href="https://github.com/krmao/template">
-    <img src="https://img.shields.io/badge/krmao-welcome-brightgreen.svg" alt="Beautiful welcome!" />
-  </a>
+<a href="https://blog.csdn.net/mkrcpp">CSDN</a> |
+<a href="https://stackoverflow.com/users/4348530/michael-mao">Stack Overflow</a> |
+<a href="https://github.com/krmao">GitHub</a>
 </p>
 
-<h3 align="center">
-  <a href="https://github.com/krmao/template/tree/androidx/mobile/android">Android</a>
-  <span> · </span>
-  <a href="https://github.com/krmao/template/tree/androidx/mobile/IOS">Ios</a>
-  <span> · </span>
-  <a href="https://github.com/krmao/template/tree/androidx/mobile/hybird_vue">Hybird</a>
-  <span> · </span>
-  <a href="https://github.com/krmao/template/tree/androidx/mobile/react_native">React Native</a>
-  <span> · </span>
-  <a href="https://github.com/krmao/template/tree/androidx/mobile/flutter_module">Flutter</a>
-  <span> · </span>
-  <a href="https://github.com/krmao/template/tree/androidx/mobile/wechat">Wechat</a>
-  <span> · </span>
-  <a href="https://github.com/krmao/template/tree/androidx/service/service-template">Spring boot</a>
-</h3>
+---
