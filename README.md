@@ -20,7 +20,7 @@
 <p align="center">
 📧 Email: <a href="mailto:kr.mao@qq.com">kr.mao@qq.com</a><br>
 📧 Email: <a href="mailto:mkrcpp@gmail.com">mkrcpp@gmail.com</a><br>
-🌍 Website: <a href="https://codesdancing.com">codesdancing.com</a><br>
+🌍 Website: <a href="https://github.com/krmao">https://github.com/krmao</a><br>
 📍 Location: Shanghai, China
 </p>
 
