@@ -1,9 +1,9 @@
 <h1 align="center">Michael Mao</h1>
-<p align="center">Full Stack Developer & AI Enthusiast</p>
+<h4 align="center">Full Stack Developer & AI Enthusiast</h4>
 
 ---
 
-<p align="center">Passionate about building scalable applications and exploring AI technologies. Experienced in mobile, web, backend, and DevOps.</p>
+<h4 align="center">Passionate about building scalable applications and exploring AI technologies. Experienced in mobile, web, backend, and DevOps.</h4>
 
 ---
 
