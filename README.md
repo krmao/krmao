@@ -1,4 +1,4 @@
-<h1 align="center">Michael Mao</h1>
+<h1 align="center"><img width="1008" height="336" alt="image" src="https://github.com/user-attachments/assets/efde036c-7a5d-409c-9ac1-62a61a7f6915" /></h1>
 <h4 align="center">Full Stack Developer & AI Enthusiast</h4>
 
 ---
