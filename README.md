@@ -35,7 +35,11 @@
 
 ---
 
-<video width="448" height="960" controls>
-    <source src="./ai-preview.mp4" type="video/mp4"/>
-</video>
+<h3 align="center">Projects Preview</h3>
+<p align="center">
+    
+https://github.com/user-attachments/assets/700781e2-580b-4652-9e43-fb38b33675df
 
+</p>
+
+---
