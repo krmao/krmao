@@ -35,6 +35,7 @@
 
 ---
 
-<video width="800" height="600" controls>
-    <source src="https://share.weiyun.com/dIMIcxrM" type="video/mp4"/>
+<video width="448" height="960" controls>
+    <source src="./ai-preview.mp4" type="video/mp4"/>
 </video>
+
