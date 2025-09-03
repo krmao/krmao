@@ -12,10 +12,13 @@
 ---
 
 <h3 align="center">Contact</h3>
-<p align="center">
-📧 Email: <a href="mailto:kr.mao@qq.com">kr.mao@qq.com</a><br>
-📧 Email: <a href="mailto:mkrcpp@gmail.com">mkrcpp@gmail.com</a><br>
-</p>
+<table align="center">
+  <tr>
+    <td>📧 <a href="mailto:kr.mao@qq.com">kr.mao@qq.com</a></td>
+    <td>📧 <a href="mailto:mkrcpp@gmail.com">mkrcpp@gmail.com</a></td>
+  </tr>
+</table>
+
 
 ---
 
