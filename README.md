@@ -11,16 +11,6 @@
 
 ---
 
-<h3 align="center">Contact</h3>
-
-| QQ | Gmail |
-|-------|-------|
-| <a href="mailto:kr.mao@qq.com">kr.mao@qq.com</a> | <a href="mailto:mkrcpp@gmail.com">mkrcpp@gmail.com</a> |
-
-
-
----
-
 
 <h3 align="center">Projects</h3>
 
@@ -31,5 +21,13 @@
 | 🐣 Vue3 | <a href="https://github.com/user-attachments/assets/47e43bd1-5e46-4d19-88be-d11056059f22">ai-dashboard</a> |
 
 
+---
+
+
+<h3 align="center">Contact</h3>
+
+| QQ | Gmail |
+|-------|-------|
+| <a href="mailto:kr.mao@qq.com">✉️ kr.mao@qq.com</a> | <a href="mailto:mkrcpp@gmail.com">📧 mkrcpp@gmail.com</a> |
 
 ---
