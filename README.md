@@ -37,17 +37,9 @@
 
 <h3 align="center">Projects Preview</h3>
 <p align="center">
-
-https://github.com/user-attachments/assets/700781e2-580b-4652-9e43-fb38b33675df
-
-https://github.com/user-attachments/assets/1aa41153-a63b-4d65-adab-e77064b12a46
-
-https://github.com/user-attachments/assets/47e43bd1-5e46-4d19-88be-d11056059f22
-
+🎃 React Native: <a href="https://github.com/user-attachments/assets/1aa41153-a63b-4d65-adab-e77064b12a46">react-native-reanimated</a><br>
+☃️ React Native Vue3 : <a href="https://github.com/user-attachments/assets/700781e2-580b-4652-9e43-fb38b33675df">ai-chat</a><br>
+🐣 Vue3: <a href="https://github.com/user-attachments/assets/47e43bd1-5e46-4d19-88be-d11056059f22">ai-dashboard</a><br>
 </p>
-
-
-
-
 
 ---
