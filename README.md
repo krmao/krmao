@@ -9,6 +9,8 @@
 <p align="center">🤖 <strong>AI</strong>: SGLang, VLLM, Ollama, LangChain, Chroma, Milvus, Whisper, Aliyun ASR, Aliyun TTS</p>
 <p align="center">🚀 <strong>DevOps</strong>: Docker, Kubernetes</p>
 
+
+<!--
 ---
 
 
@@ -20,6 +22,7 @@
 | ☃️ React Native / Vue3 | <a href="https://github.com/user-attachments/assets/700781e2-580b-4652-9e43-fb38b33675df">ai-chat</a> |
 | 🐣 Vue3 | <a href="https://github.com/user-attachments/assets/47e43bd1-5e46-4d19-88be-d11056059f22">ai-dashboard</a> |
 
+-->
 
 ---
 
