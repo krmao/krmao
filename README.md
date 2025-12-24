@@ -5,7 +5,7 @@
 <h3 align="center">Skills</h3>
 <p align="center">📱 <strong>Mobile</strong>: <a href="https://github.com/krmao/template/tree/androidx/mobile/android">Android</a>, <a href="https://github.com/krmao/template/tree/androidx/mobile/IOS">iOS</a>, HarmonyOS, <a href="https://github.com/krmao/template/tree/androidx/mobile/hybird_vue">H5</a>, <a href="https://github.com/krmao/template/tree/androidx/mobile/react_native">React Native</a>, <a href="https://github.com/krmao/template/tree/androidx/mobile/flutter_module">Flutter</a></p>
 <p align="center">🌐 <strong>Web</strong>: Vue3, React, Nuxt.js, Next.js</p>
-<p align="center">🖥️ <strong>Backend</strong>: Java, <a href="https://github.com/krmao/template/tree/androidx/service/service-template">Spring Boot</a>, Spring Cloud, Python, FastAPI</p>
+<p align="center">🖥️ <strong>Backend</strong>: Java, <a href="https://github.com/krmao/template/tree/androidx/service/service-template">Spring Boot</a>, Spring Cloud, Python, Django, FastAPI</p>
 <p align="center">🤖 <strong>AI</strong>: SGLang, VLLM, Ollama, LangChain, Chroma, Milvus, Whisper, Aliyun ASR, Aliyun TTS</p>
 <p align="center">🚀 <strong>DevOps</strong>: Docker, Kubernetes</p>
 
